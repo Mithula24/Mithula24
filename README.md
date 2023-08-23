@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Mithula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mithula--01629954/)](https://www.linkedin.com/in/Mithula--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mithula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mithula-r-9a6855193/)](https://www.linkedin.com/in/mithula-r-9a6855193)
 [![Website Badge](https://img.shields.io/badge/WebSite-Mithula-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mithula-yellow)](https://stackoverflow.com/users/3687251/Mithula-)
 
