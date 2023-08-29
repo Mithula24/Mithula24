@@ -1,13 +1,13 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Mithula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mithula-r-9a6855193/)](https://www.linkedin.com/in/mithula-r-9a6855193)
 [![Website Badge](https://img.shields.io/badge/WebSite-Mithula-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mithula-yellow)](https://stackoverflow.com/users/22379143/mithula-)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+Senior System Engineer | Full Stack Web developer trainee
+
+Passionately work with data to identify problems and provide creative solutions to meet the client requirements and organizational standards. Proactively learn new technologies to increase the output value and solutions to support client needs. Result oriented, Customer focused with heathy relationship with team members.The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs) design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript), Server Administrator(Azure),database(MongoDB,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Mithuladeveloper/count.svg)
