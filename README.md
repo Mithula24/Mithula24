@@ -19,64 +19,20 @@ Passionately work with data to identify problems and provide creative solutions 
   </a>
 </div>
 
-Languages and Tools:
+# 💫 About Me:
+I'm mthula
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" alt="bootstrap" width="40" height="41" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqw7YrkS19pX1-Y6-QwpkNmmdqad4NaONpisk4P6b3&s" alt="css3" width="40" height="40" />
-    </a>
-    
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFu7ooP693ca_XZZe2nncq6AuqTg90UUdDWDoOeZtqqQ&s" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mithula24&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mithula24&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithula24&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mithula24&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Mithula&theme=react-dark&hide_border=true&area=true)
+---
+[![](https://visitcount.itsvg.in/api?id=Mithula24&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mithula&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithula&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-</details>
-<br/>
